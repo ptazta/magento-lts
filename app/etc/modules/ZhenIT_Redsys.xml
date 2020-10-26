@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ZhenIT_Redsys>
+            <active>true</active>
+            <codePool>community</codePool>
+        </ZhenIT_Redsys>
+    </modules>
+</config>

@@ -1,0 +1,18 @@
+<div class="footer-container">
+	<div class="footer row clearfix">
+		<div class="grid_18">
+			<div class="footer-info clearfix">
+				<img class="retina" width="153" height="43" src="http://openmage.nec/media/olegnax/athlete/logo.png" alt="Athlete Premium magento theme" />
+						</div>
+			<p><strong>ATENCI&Oacute;N AL CLIENTE:</strong>&nbsp;+34 622 245 842 &nbsp; &nbsp;<strong>WHATSAPP:</strong>&nbsp;+34 622 245 842 &nbsp; &nbsp;</p>		</div>
+	</div>
+</div>
+<div class="copyright-container">
+	<div class="row clearfix">
+		<div class="grid_18">
+			<div class="cc-icons"><img width="244" height="23"  src="http://openmage.nec/media/olegnax/athlete/cc_icons.png" alt="credit card icons" />
+			</div>
+			<address>&copy; Hockeysesion.com</address>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+	<redsys_standard_redirect>
+		<reference name="content">
+			<block type="redsys/standard_redirect" name="redirect" template="redsys/redirect.phtml"></block>
+		</reference>
+	</redsys_standard_redirect>
+	<redsys_iupay_redirect>
+		<reference name="content">
+			<block type="redsys/standard_redirect" name="redirect" template="redsys/redirect.phtml"></block>
+		</reference>
+	</redsys_iupay_redirect>
+</layout>

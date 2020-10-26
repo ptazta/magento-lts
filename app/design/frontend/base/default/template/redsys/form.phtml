@@ -1,0 +1,6 @@
+<fieldset class="form-list">
+    <?php $_code = $this->getMethodCode() ?>
+</fieldset>
+<div id="payment_form_<?php echo $_code ?>" style="display:none;background:url(<?php echo $this->getSkinUrl('images/redsys/cards.png') ?>) no-repeat 10px;padding:10px 10px 10px 100px;">
+	<?php echo $this->__('Al pinchar en continuar te derivaremos a la pasarela de pago de nuestro banco, ningun dato de la tarjeta se enviará ni almacenará en nuestros servidores, lo que hace los pagos 100% seguros.') ?>
+</div>

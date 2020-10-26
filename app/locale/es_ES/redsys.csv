@@ -1,0 +1,34 @@
+"Pago con tarjeta - Redsys","Pago con tarjeta - Redsys"
+"Entorno de Redsys","Entorno de Redsys"
+"Nombre del comercio","Nombre del comercio"
+"Número del comercio(FUC)","Número del comercio(FUC)"
+"Tipos de pago permitidos","Tipos de pago permitidos"
+"Clave secreta de encriptación (SHA-256)","Clave secreta de encriptación (SHA-256)"
+"Número de terminal","Número de terminal"
+Moneda,Moneda
+"Activar Log","Activar Log"
+"Mantener pedido si se produce un error","Mantener pedido si se produce un error"
+"Notificación HTTP(Inactivo no procesa pedido ni vacia el carrito)","Notificación HTTP(Inactivo no procesa pedido ni vacia el carrito)"
+"Usar SSL en validación","Usar SSL en validación"
+"En caso de error, permite elegir otro medio de pago","En caso de error, permite elegir otro medio de pago"
+"Activar idiomas del TPV","Activar idiomas del TPV"
+"Activar correo electrónico","Activar correo electrónico"
+"Contenido del mensaje al cliente","Contenido del mensaje al cliente"
+Todos,Todos
+"Solo tarjeta","Solo tarjeta"
+Real,Real
+Sis-t,Sis-t
+Sis-i,Sis-i
+Sis-d,Sis-d
+"Redsys ha actualizado el estado del pedido con el valor","Redsys ha actualizado el estado del pedido con el valor"
+"Cargando el TPV... Espere por favor","Cargando el TPV... Espere por favor"
+"Pedido realizado","Pedido realizado"
+"Correo enviado","Correo enviado"
+"No se puedo enviar el correo","No se puedo enviar el correo"
+"Redsys, imposible generar Factura","Redsys, imposible generar Factura"
+"Redsys ha generado la Factura del pedido","Redsys ha generado la Factura del pedido"
+"Pedido","Pedido"
+"se ha enviado correctamente","se ha enviado correctamente"
+"Validaciones NO superadas","Validaciones NO superadas"
+"No hay respuesta por parte de Redsys!","No hay respuesta por parte de Redsys!"
+"Estado tras el pago","Estado tras el pago"
